@@ -1,4 +1,4 @@
-# Total.js Flow
+# Total.js Flow & Remtion
 
 - [Website](https://www.totaljs.com/flow/)
 - [__Documentation__](https://docs.totaljs.com/flow10/)
@@ -25,3 +25,5 @@ __Docker__:
 docker pull totalplatform/flow
 docker run -p 8000:8000 totalplatform/flow
 ````
+
+An attempt to get Remotion & Flow talking together.
