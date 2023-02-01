@@ -1,4 +1,4 @@
-# Total.js Flow & Remtion
+# Total.js Flow & Remotion
 
 - [Website](https://www.totaljs.com/flow/)
 - [__Documentation__](https://docs.totaljs.com/flow10/)
